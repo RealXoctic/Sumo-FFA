@@ -1,0 +1,8 @@
+name: ToggleSprint
+version: 3.0
+api: "3.0.0"
+main: StreamerYuvraj\ToggleSprint\Main
+author: Streamer Yuvraj
+commands:
+  togglesprint:
+    description: Open ToggleSprint Menu

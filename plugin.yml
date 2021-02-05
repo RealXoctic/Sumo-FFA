@@ -1,0 +1,24 @@
+name: FFA
+main: ffa\Main
+author: StreamerYuvraj
+api: 3.14.0
+version: 1.0
+
+commands:
+  kffa:
+    description: "Teleport you to KnockFFA Arena"
+
+  combo:
+    description: "Teleport you to Combo Arena"
+
+  fist:
+    description: "Teleport you to Fist Arena"
+  
+  gapple:
+    description: "Teleport You to Gapple Arena"
+
+  sumo:
+    description: "Teleport You to Sumo Arena"
+    
+  nodebuff:
+    description: "Teleport You to Nodebuff Arena"

@@ -5,4 +5,4 @@ How to Download?
 YOu can Download .phar file from https://poggit.pmmp.io/ci/RealXoctic/Sumo-FFA/~
 
 TODO LIST
-add COnfig.yml to selct the world.
+add Config.yml to select the world.
